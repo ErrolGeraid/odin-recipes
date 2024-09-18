@@ -1,1 +1,7 @@
 # odin-recipes
+
+# USAR SIEMPRE SSH
+
+# NUNCA OLVIDES ESO
+
+# RECETAS ODIN
