@@ -8,3 +8,7 @@ div {
 p {
   color: red;
 }
+
+ul.b {
+  list-style-type: square;
+}
